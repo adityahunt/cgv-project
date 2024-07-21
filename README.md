@@ -26,7 +26,7 @@
 
 ### Simple UI
 
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
+<img src='https://github.com/adityahunt/cgv-project/blob/master/Project%20Snap/1.PNG'>
 
 ### While taking Image
 
