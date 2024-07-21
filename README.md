@@ -38,6 +38,6 @@
 
 ## Attendance in tabular format
 
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
+<img src='https://github.com/adityahunt/cgv-project/blob/master/Project%20Snap/7.PNG'>
 
 ## Just follow me and Star⭐ my repository
