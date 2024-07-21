@@ -32,9 +32,9 @@
 
 ![Screenshot (103)](https://github.com/adityahunt/cgv-project/blob/master/Project%20Snap/9.png)
 
-## While taking Attendance
+## While training data
 
-![Screenshot (91)](https://user-images.githubusercontent.com/26384517/86821090-9465ea80-c0a7-11ea-9680-777923663d0c.png)
+![Screenshot (91)](https://github.com/adityahunt/cgv-project/blob/master/Project%20Snap/5.PNG)
 
 ## Attendance in tabular format
 
